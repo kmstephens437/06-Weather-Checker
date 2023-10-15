@@ -1,3 +1,6 @@
+
+![sunsetBG](https://github.com/kmstephens437/06-Weather-Checker/assets/117880816/d690c44c-edc4-4bfb-94b3-3ed63905f416)
+
 # Weather Checker
 
 ## Description
