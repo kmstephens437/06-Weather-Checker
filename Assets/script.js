@@ -6,7 +6,7 @@ const fiveDayArea = document.querySelector("#fiveDay");
 const searchButton = document.querySelector("#search")
 const key = '95e06141d1fb08f0e5b62af9d1d67ed1'
 
-
+/*
 function getCoords(cityName) {
 
     const latLonUrl = 'https://api.openweathermap.org/geo/1.0/direct?q=${cityName}&appid=95e06141d1fb08f0e5b62af9d1d67ed1';
@@ -31,7 +31,7 @@ function latLon(data) {
 
 getCoords('chicago')
 latLon();
-
+*/
 
 
 
